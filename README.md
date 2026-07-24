@@ -64,7 +64,7 @@ The dataset tracks every delivery bowled, complete with cumulative match context
 
 ## Technical Stack
 * **Language:** Python
-* **Environment:** Jupyter Notebook (`.ipynb`)
+* **Environment:** Jupyter Notebook / Google Colab
 * **Core Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 
 ---
